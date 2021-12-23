@@ -1,0 +1,60 @@
+C:\Users\Admin\Desktop\Notes\Notes\Notes\bin\Debug\netstandard2.1\Notes.deps.json
+C:\Users\Admin\Desktop\Notes\Notes\Notes\bin\Debug\netstandard2.1\Notes.dll
+C:\Users\Admin\Desktop\Notes\Notes\Notes\bin\Debug\netstandard2.1\ref\Notes.dll
+C:\Users\Admin\Desktop\Notes\Notes\Notes\bin\Debug\netstandard2.1\Notes.pdb
+C:\Users\Admin\Desktop\Notes\Notes\Notes\obj\Debug\netstandard2.1\Notes.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Notes\Notes\Notes\obj\Debug\netstandard2.1\Notes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Notes\Notes\Notes\obj\Debug\netstandard2.1\App.xaml.g.cs
+C:\Users\Admin\Desktop\Notes\Notes\Notes\obj\Debug\netstandard2.1\AppShell.xaml.g.cs
+C:\Users\Admin\Desktop\Notes\Notes\Notes\obj\Debug\netstandard2.1\Views\AboutPage.xaml.g.cs
+C:\Users\Admin\Desktop\Notes\Notes\Notes\obj\Debug\netstandard2.1\Views\NoteEntryPage.xaml.g.cs
+C:\Users\Admin\Desktop\Notes\Notes\Notes\obj\Debug\netstandard2.1\Views\NoteEntryPageDetail.xaml.g.cs
+C:\Users\Admin\Desktop\Notes\Notes\Notes\obj\Debug\netstandard2.1\Views\NoteEntryPageFlyout.xaml.g.cs
+C:\Users\Admin\Desktop\Notes\Notes\Notes\obj\Debug\netstandard2.1\Views\NotesPage.xaml.g.cs
+C:\Users\Admin\Desktop\Notes\Notes\Notes\obj\Debug\netstandard2.1\Notes.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Notes\Notes\Notes\obj\Debug\netstandard2.1\Notes.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Notes\Notes\Notes\obj\Debug\netstandard2.1\Notes.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Notes\Notes\Notes\obj\Debug\netstandard2.1\XamlC.stamp
+C:\Users\Admin\Desktop\Notes\Notes\Notes\obj\Debug\netstandard2.1\Notes.dll
+C:\Users\Admin\Desktop\Notes\Notes\Notes\obj\Debug\netstandard2.1\ref\Notes.dll
+C:\Users\Admin\Desktop\Notes\Notes\Notes\obj\Debug\netstandard2.1\Notes.pdb
+C:\Users\isa20\OneDrive\Рабочий стол\Notes\Notes\Notes\bin\Debug\netstandard2.1\Notes.deps.json
+C:\Users\isa20\OneDrive\Рабочий стол\Notes\Notes\Notes\bin\Debug\netstandard2.1\Notes.dll
+C:\Users\isa20\OneDrive\Рабочий стол\Notes\Notes\Notes\bin\Debug\netstandard2.1\ref\Notes.dll
+C:\Users\isa20\OneDrive\Рабочий стол\Notes\Notes\Notes\bin\Debug\netstandard2.1\Notes.pdb
+C:\Users\isa20\OneDrive\Рабочий стол\Notes\Notes\Notes\obj\Debug\netstandard2.1\Notes.csproj.AssemblyReference.cache
+C:\Users\isa20\OneDrive\Рабочий стол\Notes\Notes\Notes\obj\Debug\netstandard2.1\Notes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\isa20\OneDrive\Рабочий стол\Notes\Notes\Notes\obj\Debug\netstandard2.1\App.xaml.g.cs
+C:\Users\isa20\OneDrive\Рабочий стол\Notes\Notes\Notes\obj\Debug\netstandard2.1\AppShell.xaml.g.cs
+C:\Users\isa20\OneDrive\Рабочий стол\Notes\Notes\Notes\obj\Debug\netstandard2.1\Views\AboutPage.xaml.g.cs
+C:\Users\isa20\OneDrive\Рабочий стол\Notes\Notes\Notes\obj\Debug\netstandard2.1\Views\NoteEntryPage.xaml.g.cs
+C:\Users\isa20\OneDrive\Рабочий стол\Notes\Notes\Notes\obj\Debug\netstandard2.1\Views\NoteEntryPageDetail.xaml.g.cs
+C:\Users\isa20\OneDrive\Рабочий стол\Notes\Notes\Notes\obj\Debug\netstandard2.1\Views\NoteEntryPageFlyout.xaml.g.cs
+C:\Users\isa20\OneDrive\Рабочий стол\Notes\Notes\Notes\obj\Debug\netstandard2.1\Views\NotesPage.xaml.g.cs
+C:\Users\isa20\OneDrive\Рабочий стол\Notes\Notes\Notes\obj\Debug\netstandard2.1\Notes.AssemblyInfoInputs.cache
+C:\Users\isa20\OneDrive\Рабочий стол\Notes\Notes\Notes\obj\Debug\netstandard2.1\Notes.AssemblyInfo.cs
+C:\Users\isa20\OneDrive\Рабочий стол\Notes\Notes\Notes\obj\Debug\netstandard2.1\Notes.csproj.CoreCompileInputs.cache
+C:\Users\isa20\OneDrive\Рабочий стол\Notes\Notes\Notes\obj\Debug\netstandard2.1\XamlC.stamp
+C:\Users\isa20\OneDrive\Рабочий стол\Notes\Notes\Notes\obj\Debug\netstandard2.1\Notes.dll
+C:\Users\isa20\OneDrive\Рабочий стол\Notes\Notes\Notes\obj\Debug\netstandard2.1\ref\Notes.dll
+C:\Users\isa20\OneDrive\Рабочий стол\Notes\Notes\Notes\obj\Debug\netstandard2.1\Notes.pdb
+C:\Notes\Notes\Notes\bin\Debug\netstandard2.1\Notes.deps.json
+C:\Notes\Notes\Notes\bin\Debug\netstandard2.1\Notes.dll
+C:\Notes\Notes\Notes\bin\Debug\netstandard2.1\ref\Notes.dll
+C:\Notes\Notes\Notes\bin\Debug\netstandard2.1\Notes.pdb
+C:\Notes\Notes\Notes\obj\Debug\netstandard2.1\Notes.csproj.AssemblyReference.cache
+C:\Notes\Notes\Notes\obj\Debug\netstandard2.1\Notes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Notes\Notes\Notes\obj\Debug\netstandard2.1\App.xaml.g.cs
+C:\Notes\Notes\Notes\obj\Debug\netstandard2.1\AppShell.xaml.g.cs
+C:\Notes\Notes\Notes\obj\Debug\netstandard2.1\Views\AboutPage.xaml.g.cs
+C:\Notes\Notes\Notes\obj\Debug\netstandard2.1\Views\NoteEntryPage.xaml.g.cs
+C:\Notes\Notes\Notes\obj\Debug\netstandard2.1\Views\NoteEntryPageDetail.xaml.g.cs
+C:\Notes\Notes\Notes\obj\Debug\netstandard2.1\Views\NoteEntryPageFlyout.xaml.g.cs
+C:\Notes\Notes\Notes\obj\Debug\netstandard2.1\Views\NotesPage.xaml.g.cs
+C:\Notes\Notes\Notes\obj\Debug\netstandard2.1\Notes.AssemblyInfoInputs.cache
+C:\Notes\Notes\Notes\obj\Debug\netstandard2.1\Notes.AssemblyInfo.cs
+C:\Notes\Notes\Notes\obj\Debug\netstandard2.1\Notes.csproj.CoreCompileInputs.cache
+C:\Notes\Notes\Notes\obj\Debug\netstandard2.1\XamlC.stamp
+C:\Notes\Notes\Notes\obj\Debug\netstandard2.1\Notes.dll
+C:\Notes\Notes\Notes\obj\Debug\netstandard2.1\ref\Notes.dll
+C:\Notes\Notes\Notes\obj\Debug\netstandard2.1\Notes.pdb

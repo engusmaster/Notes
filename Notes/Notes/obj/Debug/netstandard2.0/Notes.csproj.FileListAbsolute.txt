@@ -1,0 +1,95 @@
+C:\Users\User\source\repos\Notes\Notes\Notes\bin\Debug\netstandard2.0\Notes.deps.json
+C:\Users\User\source\repos\Notes\Notes\Notes\bin\Debug\netstandard2.0\Notes.dll
+C:\Users\User\source\repos\Notes\Notes\Notes\bin\Debug\netstandard2.0\ref\Notes.dll
+C:\Users\User\source\repos\Notes\Notes\Notes\bin\Debug\netstandard2.0\Notes.pdb
+C:\Users\User\source\repos\Notes\Notes\Notes\obj\Debug\netstandard2.0\Notes.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Notes\Notes\Notes\obj\Debug\netstandard2.0\Notes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Notes\Notes\Notes\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\User\source\repos\Notes\Notes\Notes\obj\Debug\netstandard2.0\AppShell.xaml.g.cs
+C:\Users\User\source\repos\Notes\Notes\Notes\obj\Debug\netstandard2.0\Views\AboutPage.xaml.g.cs
+C:\Users\User\source\repos\Notes\Notes\Notes\obj\Debug\netstandard2.0\Views\NotesPage.xaml.g.cs
+C:\Users\User\source\repos\Notes\Notes\Notes\obj\Debug\netstandard2.0\Notes.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Notes\Notes\Notes\obj\Debug\netstandard2.0\Notes.AssemblyInfo.cs
+C:\Users\User\source\repos\Notes\Notes\Notes\obj\Debug\netstandard2.0\Notes.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Notes\Notes\Notes\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\User\source\repos\Notes\Notes\Notes\obj\Debug\netstandard2.0\Notes.dll
+C:\Users\User\source\repos\Notes\Notes\Notes\obj\Debug\netstandard2.0\ref\Notes.dll
+C:\Users\User\source\repos\Notes\Notes\Notes\obj\Debug\netstandard2.0\Notes.pdb
+C:\Users\1\Desktop\Notes\Notes\Notes\bin\Debug\netstandard2.0\Notes.deps.json
+C:\Users\1\Desktop\Notes\Notes\Notes\bin\Debug\netstandard2.0\Notes.dll
+C:\Users\1\Desktop\Notes\Notes\Notes\bin\Debug\netstandard2.0\ref\Notes.dll
+C:\Users\1\Desktop\Notes\Notes\Notes\bin\Debug\netstandard2.0\Notes.pdb
+C:\Users\1\Desktop\Notes\Notes\Notes\obj\Debug\netstandard2.0\Notes.csproj.AssemblyReference.cache
+C:\Users\1\Desktop\Notes\Notes\Notes\obj\Debug\netstandard2.0\Notes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\Desktop\Notes\Notes\Notes\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\1\Desktop\Notes\Notes\Notes\obj\Debug\netstandard2.0\AppShell.xaml.g.cs
+C:\Users\1\Desktop\Notes\Notes\Notes\obj\Debug\netstandard2.0\Views\AboutPage.xaml.g.cs
+C:\Users\1\Desktop\Notes\Notes\Notes\obj\Debug\netstandard2.0\Views\NotesPage.xaml.g.cs
+C:\Users\1\Desktop\Notes\Notes\Notes\obj\Debug\netstandard2.0\Notes.AssemblyInfoInputs.cache
+C:\Users\1\Desktop\Notes\Notes\Notes\obj\Debug\netstandard2.0\Notes.AssemblyInfo.cs
+C:\Users\1\Desktop\Notes\Notes\Notes\obj\Debug\netstandard2.0\Notes.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\Notes\Notes\Notes\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\1\Desktop\Notes\Notes\Notes\obj\Debug\netstandard2.0\Notes.dll
+C:\Users\1\Desktop\Notes\Notes\Notes\obj\Debug\netstandard2.0\ref\Notes.dll
+C:\Users\1\Desktop\Notes\Notes\Notes\obj\Debug\netstandard2.0\Notes.pdb
+C:\Users\1\Desktop\Notes\Notes\Notes\obj\Debug\netstandard2.0\Views\NoteEntryPage.xaml.g.cs
+C:\Users\1\Desktop\Notes\Notes\Notes\obj\Debug\netstandard2.0\Views\NoteEntryPageDetail.xaml.g.cs
+C:\Users\1\Desktop\Notes\Notes\Notes\obj\Debug\netstandard2.0\Views\NoteEntryPageFlyout.xaml.g.cs
+C:\Users\Сергей\Desktop\Notes — копия\Notes\Notes\bin\Debug\netstandard2.0\Notes.deps.json
+C:\Users\Сергей\Desktop\Notes — копия\Notes\Notes\bin\Debug\netstandard2.0\Notes.dll
+C:\Users\Сергей\Desktop\Notes — копия\Notes\Notes\bin\Debug\netstandard2.0\ref\Notes.dll
+C:\Users\Сергей\Desktop\Notes — копия\Notes\Notes\bin\Debug\netstandard2.0\Notes.pdb
+C:\Users\Сергей\Desktop\Notes — копия\Notes\Notes\obj\Debug\netstandard2.0\Notes.csprojAssemblyReference.cache
+C:\Users\Сергей\Desktop\Notes — копия\Notes\Notes\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Сергей\Desktop\Notes — копия\Notes\Notes\obj\Debug\netstandard2.0\AppShell.xaml.g.cs
+C:\Users\Сергей\Desktop\Notes — копия\Notes\Notes\obj\Debug\netstandard2.0\Views\AboutPage.xaml.g.cs
+C:\Users\Сергей\Desktop\Notes — копия\Notes\Notes\obj\Debug\netstandard2.0\Views\NoteEntryPage.xaml.g.cs
+C:\Users\Сергей\Desktop\Notes — копия\Notes\Notes\obj\Debug\netstandard2.0\Views\NoteEntryPageDetail.xaml.g.cs
+C:\Users\Сергей\Desktop\Notes — копия\Notes\Notes\obj\Debug\netstandard2.0\Views\NoteEntryPageFlyout.xaml.g.cs
+C:\Users\Сергей\Desktop\Notes — копия\Notes\Notes\obj\Debug\netstandard2.0\Views\NotesPage.xaml.g.cs
+C:\Users\Сергей\Desktop\Notes — копия\Notes\Notes\obj\Debug\netstandard2.0\Notes.AssemblyInfoInputs.cache
+C:\Users\Сергей\Desktop\Notes — копия\Notes\Notes\obj\Debug\netstandard2.0\Notes.AssemblyInfo.cs
+C:\Users\Сергей\Desktop\Notes — копия\Notes\Notes\obj\Debug\netstandard2.0\Notes.csproj.CoreCompileInputs.cache
+C:\Users\Сергей\Desktop\Notes — копия\Notes\Notes\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Сергей\Desktop\Notes — копия\Notes\Notes\obj\Debug\netstandard2.0\Notes.dll
+C:\Users\Сергей\Desktop\Notes — копия\Notes\Notes\obj\Debug\netstandard2.0\ref\Notes.dll
+C:\Users\Сергей\Desktop\Notes — копия\Notes\Notes\obj\Debug\netstandard2.0\Notes.pdb
+D:\Notes\Notes\Notes\bin\Debug\netstandard2.0\Notes.deps.json
+D:\Notes\Notes\Notes\bin\Debug\netstandard2.0\Notes.dll
+D:\Notes\Notes\Notes\bin\Debug\netstandard2.0\ref\Notes.dll
+D:\Notes\Notes\Notes\bin\Debug\netstandard2.0\Notes.pdb
+D:\Notes\Notes\Notes\obj\Debug\netstandard2.0\Notes.csprojAssemblyReference.cache
+D:\Notes\Notes\Notes\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Notes\Notes\Notes\obj\Debug\netstandard2.0\AppShell.xaml.g.cs
+D:\Notes\Notes\Notes\obj\Debug\netstandard2.0\Views\AboutPage.xaml.g.cs
+D:\Notes\Notes\Notes\obj\Debug\netstandard2.0\Views\NoteEntryPage.xaml.g.cs
+D:\Notes\Notes\Notes\obj\Debug\netstandard2.0\Views\NoteEntryPageDetail.xaml.g.cs
+D:\Notes\Notes\Notes\obj\Debug\netstandard2.0\Views\NoteEntryPageFlyout.xaml.g.cs
+D:\Notes\Notes\Notes\obj\Debug\netstandard2.0\Views\NotesPage.xaml.g.cs
+D:\Notes\Notes\Notes\obj\Debug\netstandard2.0\Notes.AssemblyInfoInputs.cache
+D:\Notes\Notes\Notes\obj\Debug\netstandard2.0\Notes.AssemblyInfo.cs
+D:\Notes\Notes\Notes\obj\Debug\netstandard2.0\Notes.csproj.CoreCompileInputs.cache
+D:\Notes\Notes\Notes\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Notes\Notes\Notes\obj\Debug\netstandard2.0\Notes.dll
+D:\Notes\Notes\Notes\obj\Debug\netstandard2.0\ref\Notes.dll
+D:\Notes\Notes\Notes\obj\Debug\netstandard2.0\Notes.pdb
+C:\Users\Admin\Desktop\Notes\Notes\Notes\bin\Debug\netstandard2.0\Notes.deps.json
+C:\Users\Admin\Desktop\Notes\Notes\Notes\bin\Debug\netstandard2.0\Notes.dll
+C:\Users\Admin\Desktop\Notes\Notes\Notes\bin\Debug\netstandard2.0\ref\Notes.dll
+C:\Users\Admin\Desktop\Notes\Notes\Notes\bin\Debug\netstandard2.0\Notes.pdb
+C:\Users\Admin\Desktop\Notes\Notes\Notes\obj\Debug\netstandard2.0\Notes.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Notes\Notes\Notes\obj\Debug\netstandard2.0\Notes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Notes\Notes\Notes\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Admin\Desktop\Notes\Notes\Notes\obj\Debug\netstandard2.0\AppShell.xaml.g.cs
+C:\Users\Admin\Desktop\Notes\Notes\Notes\obj\Debug\netstandard2.0\Views\AboutPage.xaml.g.cs
+C:\Users\Admin\Desktop\Notes\Notes\Notes\obj\Debug\netstandard2.0\Views\NoteEntryPage.xaml.g.cs
+C:\Users\Admin\Desktop\Notes\Notes\Notes\obj\Debug\netstandard2.0\Views\NoteEntryPageDetail.xaml.g.cs
+C:\Users\Admin\Desktop\Notes\Notes\Notes\obj\Debug\netstandard2.0\Views\NoteEntryPageFlyout.xaml.g.cs
+C:\Users\Admin\Desktop\Notes\Notes\Notes\obj\Debug\netstandard2.0\Views\NotesPage.xaml.g.cs
+C:\Users\Admin\Desktop\Notes\Notes\Notes\obj\Debug\netstandard2.0\Notes.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Notes\Notes\Notes\obj\Debug\netstandard2.0\Notes.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Notes\Notes\Notes\obj\Debug\netstandard2.0\Notes.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Notes\Notes\Notes\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Admin\Desktop\Notes\Notes\Notes\obj\Debug\netstandard2.0\Notes.dll
+C:\Users\Admin\Desktop\Notes\Notes\Notes\obj\Debug\netstandard2.0\ref\Notes.dll
+C:\Users\Admin\Desktop\Notes\Notes\Notes\obj\Debug\netstandard2.0\Notes.pdb
